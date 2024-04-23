@@ -70,4 +70,4 @@ We welcome contributions to this project! Feel free to fork the repository and s
 
 ### License
 
-This project is licensed under the MIT License.  See the LICENSE file for details.
+This project is licensed under the MIT [License](https://github.com/arch-adi21/User-Rating-ML/blob/main/LICENSE).  See the LICENSE file for details.
